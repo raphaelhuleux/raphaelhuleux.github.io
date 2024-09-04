@@ -1,35 +1,33 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://raphaelhuleux.github.io" 
+title: Raphaël Huleux
 paginate: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-taxonomies:
-    tag: tags
-
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
+        - name: CV
+          url: cv.pdf
+          weight: 1
+        - name: Job-Market Paper
+          url: jmp.pdf
+          weight: 2  
         - name: Papers
           url: papers/
-          weight: 2
+          weight: 3
         - name: Courses
           url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
+          weight: 4
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+          url: blog/
+          weight: 5
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    #description: "I'm a 4th year PhD student in the Economics Department of the Copenhagen Business School. \\ 
+    #I am interested in the impact of inequality on financial markets and the transmission of monetary policy, and in the macroeconomic consequences of climate change policies."
+    author: Raphaël Huleux
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -43,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["courses","papers","blog"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -53,49 +51,34 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Raphaël Huleux
+          subtitle: "I'm a 4th year PhD student in the Economics Department of the Copenhagen Business School, under the supervision of David Jinkins and Birthe Larsen.
+          
+          <br><br>
+          I am interested in the impact of inequality on financial markets and the transmission of monetary policy, and in the macroeconomic consequences of climate change policies. something"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: Raphaël Huleux
           buttons:
+            - name: CV
+              url: cv.pdf
+            - name: Job-market paper
+              url: jmp.pdf
             - name: Papers
               url: papers/
             - name: Courses
               url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: blog/
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: mailto:raphael.huleux@gmail.com
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+          url: https://github.com/raphaelhuleux
         - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://x.com/raphaelhuleux
 
     assets:
         disableScrollBarStyle: true
@@ -103,7 +86,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Raphaël Huleux"
       icon: favicon.ico
       iconHeight: 18
 
