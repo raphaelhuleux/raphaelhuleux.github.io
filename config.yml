@@ -25,10 +25,7 @@ menu:
           weight: 5
 
 params:
-    #description: "I'm a 4th year PhD student in the Economics Department of the Copenhagen Business School. \\ 
-    #I am interested in the impact of inequality on financial markets and the transmission of monetary policy, and in the macroeconomic consequences of climate change policies."
     author: Raphaël Huleux
-    # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -55,7 +52,7 @@ params:
           subtitle: "I'm a 4th year PhD student in the Economics Department of the Copenhagen Business School, under the supervision of David Jinkins and Birthe Larsen.
           
           <br><br>
-          I am interested in the impact of inequality on financial markets and the transmission of monetary policy, and in the macroeconomic consequences of climate change policies. something"
+          I am interested in the impact of inequality on financial markets and the transmission of monetary policy, and in the macroeconomic consequences of climate change policies."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
