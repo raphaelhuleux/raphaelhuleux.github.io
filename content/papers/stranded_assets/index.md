@@ -1,24 +1,23 @@
 ---
-title: "Labor Income Inequality and Monetary Policy" 
+title: "Why is there still investment in polluting capital?" 
 date: 2024-09-01
 lastmod: 2024-09-01
-author: ["Eustache Elina", "Raphaël Huleux"]
+author: ["Raphaël Huleux"]
 description: "This paper studies the impact of rising permanent labor income inequality on monetary policy." 
-summary: "We study the impact of an increase in permanent labor income inequality on the transmission of monetary shocks on the real economy. In a Heterogeneous-Agent New-Keynesian model with standard preferences, we show that the distribution of permanent labor income is neutral with respect to monetary policy shocks. However, this model cannot account for the observed relationship between permanent income and consumption-saving behavior. Including a non-homothetic taste for wealth allows us to match this relationship, and breaks the neutrality result.  The direct substitution effect from a monetary policy shock is weakened while indirect effects are stronger. The rise in permanent labor income inequality makes households hold wealth more for a present motive rather than for an intertemporal-substitution motive. As a result, the aggregate elasticity of intertemporal substitution is weakened while the aggregate static MPC is strengthened. In a realistic two-asset HANK model, we quantify the change in the composition of a monetary shock. We observe a rise in the magnitude of a monetary policy shocks as the increase in indirect effects more than outweighs the fall in the direct effect." 
+summary: "Despite governments' commitments to limit global warming to 1.5 degree Celcius, there is still investment in carbon-intensive capital. This paper uses a growth model featuring irreversible investment, capacity utilisation, clean and polluting capital to study this apparent paradox. It shows that current investment in polluting capital and CO$_2$ emissions are coherent with expectations of a future carbon tax, if investors also expect a bailout of polluting capital. This result implies that governments' credibility can play an important role in reducing the cost of implementing an optimal carbon tax by committing not to bail out. However, there exists a temptation for a short-sighted government to boost output and consumption in the short run by announcing a future bailout." 
 
 ---
 
 
 ##### Download
 
-+ [Paper](monpolineq.pdf)
++ [Paper](stranded_assets.pdf)
 
 ---
 
 ##### Abstract
 
-We study the impact of an increase in permanent labor income inequality on the transmission of monetary shocks on the real economy. In a Heterogeneous-Agent New-Keynesian model with standard preferences, we show that the distribution of permanent labor income is neutral with respect to monetary policy shocks. However, this model cannot account for the observed relationship between permanent income and consumption-saving behavior. Including a non-homothetic taste for wealth allows us to match this relationship, and breaks the neutrality result.  The direct substitution effect from a monetary policy shock is weakened while indirect effects are stronger. The rise in permanent labor income inequality makes households hold wealth more for a present motive rather than for an intertemporal-substitution motive. As a result, the aggregate elasticity of intertemporal substitution is weakened while the aggregate static MPC is strengthened. In a realistic two-asset HANK model, we quantify the change in the composition of a monetary shock. We observe a rise in the magnitude of a monetary policy shocks as the increase in indirect effects more than outweighs the fall in the direct effect.
-
+Despite governments' commitments to limit global warming to 1.5 degree Celcius, there is still investment in carbon-intensive capital. This paper uses a growth model featuring irreversible investment, capacity utilisation, clean and polluting capital to study this apparent paradox. It shows that current investment in polluting capital and CO$_2$ emissions are coherent with expectations of a future carbon tax, if investors also expect a bailout of polluting capital. This result implies that governments' credibility can play an important role in reducing the cost of implementing an optimal carbon tax by committing not to bail out. However, there exists a temptation for a short-sighted government to boost output and consumption in the short run by announcing a future bailout.
 
 ---
 
@@ -26,8 +25,8 @@ We study the impact of an increase in permanent labor income inequality on the t
 
 ```BibTeX
 @techreport{MS24,
-author = {Eustache Elina and Raphaël Huleux},
+author = {Raphaël Huleux},
 year = {2024},
-title ={From Income to Wealth Inequality in the U.S.: General Equilibrium Matters}}
+title ={Why is there still investment in polluting capital? Stranded Assets and Policy Uncertainty}}
 ```
 
