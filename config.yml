@@ -1,6 +1,8 @@
 baseURL: "https://raphaelhuleux.github.io" 
 title: Raphaël Huleux
 paginate: 20
+pagination: 
+  pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -49,7 +51,7 @@ params:
     profileMode:
           enabled: true
           title: Raphaël Huleux
-          subtitle: "I'm a 4th year PhD student in the Economics Department of the Copenhagen Business School, under the supervision of David Jinkins and Birthe Larsen.
+          subtitle: "I'm a Post-Doc at the University of Copenhagen working with Prof. Jeppe Druedahl.
           
           <br><br>
           I am interested in the impact of inequality on financial markets and the transmission of monetary policy, and in the macroeconomic consequences of climate change policies."
