@@ -1,6 +1,9 @@
 ---
 title: "Courses"
 description: "Courses and lectures notes by Raphaël Huleux."
+_build:
+  list: never
+type: "page"
 ---
 
 ## Courses taught
