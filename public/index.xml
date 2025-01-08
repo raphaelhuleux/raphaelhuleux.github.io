@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Raphaël Huleux</title>
-    <link>http://localhost:1313/</link>
+    <link>https://raphaelhuleux.github.io/</link>
     <description>Recent content on Raphaël Huleux</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://raphaelhuleux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://raphaelhuleux.github.io/courses/course1/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://raphaelhuleux.github.io/courses/course1/</guid>
+      <description>Description.</description>
+    </item>
     <item>
       <title>First blog post</title>
-      <link>http://localhost:1313/blog/post_2024_09_03/</link>
+      <link>https://raphaelhuleux.github.io/blog/post_2024_09_03/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post_2024_09_03/</guid>
+      <guid>https://raphaelhuleux.github.io/blog/post_2024_09_03/</guid>
       <description>Test.</description>
     </item>
     <item>
       <title>Labor Income Inequality and Monetary Policy</title>
-      <link>http://localhost:1313/papers/monpolineq/</link>
+      <link>https://raphaelhuleux.github.io/papers/monpolineq/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/monpolineq/</guid>
+      <guid>https://raphaelhuleux.github.io/papers/monpolineq/</guid>
       <description>This paper studies the impact of rising permanent labor income inequality on monetary policy.</description>
     </item>
     <item>
       <title>Why is there still investment in polluting capital?</title>
-      <link>http://localhost:1313/papers/stranded_assets/</link>
+      <link>https://raphaelhuleux.github.io/papers/stranded_assets/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/stranded_assets/</guid>
+      <guid>https://raphaelhuleux.github.io/papers/stranded_assets/</guid>
       <description>This paper studies the impact of rising permanent labor income inequality on monetary policy.</description>
     </item>
     <item>
       <title>From Income to Wealth Inequality in the U.S.: General Equilibrium Matters</title>
-      <link>http://localhost:1313/papers/fitwi/</link>
+      <link>https://raphaelhuleux.github.io/papers/fitwi/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/fitwi/</guid>
+      <guid>https://raphaelhuleux.github.io/papers/fitwi/</guid>
       <description>This paper studies the impact of the increase in permanent labor income inequality on the distribution of wealth in the U.S.</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/courses/course1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/course1/</guid>
-      <description>Description.</description>
     </item>
   </channel>
 </rss>

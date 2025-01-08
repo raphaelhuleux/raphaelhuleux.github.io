@@ -1,6 +1,6 @@
 ---
 title: "Test"
-date: 2024-010-30
+date: 2024-10-30
 author: "Raphaël Huleux"
 description: "Description." 
 summary: "Summary." 
@@ -23,6 +23,3 @@ Part 1.
 
 ##### Lecture notes
 
-
-
-fdsqfsdq

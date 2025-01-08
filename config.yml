@@ -1,6 +1,5 @@
 baseURL: "https://raphaelhuleux.github.io" 
 title: Raphaël Huleux
-paginate: 20
 pagination: 
   pagerSize: 20
 theme: PaperMod
