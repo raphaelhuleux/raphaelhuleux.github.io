@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Raphaël Huleux
-          subtitle: "I am a Post-Doctoral Researcher at the University of Copenhagen working with Prof. Jeppe Druedahl."
+          subtitle: "I am a Post-Doctoral Researcher at the University of Copenhagen working with Prof. Jeppe Druedahl, interested in macroeconomics, inequality, and fiscal and monetary policy."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
