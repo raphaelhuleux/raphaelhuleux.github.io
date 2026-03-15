@@ -67,6 +67,8 @@ params:
           url: mailto:raphael.huleux@gmail.com
         - name: GitHub
           url: https://github.com/raphaelhuleux
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/rapha%C3%ABl-huleux-761840b1/
 
     assets:
         disableScrollBarStyle: true
