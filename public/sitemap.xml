@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/papers/fitwi/</loc>
+    <loc>https://raphaelhuleux.github.io/papers/fitwi/</loc>
+    <lastmod>2026-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raphaelhuleux.github.io/papers/</loc>
+    <lastmod>2026-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raphaelhuleux.github.io/</loc>
+    <lastmod>2026-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raphaelhuleux.github.io/papers/dlsolvers/</loc>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raphaelhuleux.github.io/papers/monpolineq/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/monpolineq/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/exit_channel/</loc>
+    <loc>https://raphaelhuleux.github.io/papers/exit_channel/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://raphaelhuleux.github.io/blog/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post_2024_09_03/</loc>
+    <loc>https://raphaelhuleux.github.io/blog/post_2024_09_03/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/stranded_assets/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <loc>https://raphaelhuleux.github.io/courses/</loc>
   </url><url>
-    <loc>http://localhost:1313/courses/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://raphaelhuleux.github.io/tags/</loc>
   </url>
 </urlset>
