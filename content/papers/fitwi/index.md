@@ -1,30 +1,31 @@
 ---
-title: "From Income to Wealth Inequality in the U.S.: General Equilibrium Matters" 
-date: 2025-11-01
-lastmod: 2025-11-01
+title: "From Income to Wealth Inequality: Trickle-Down vs. Capital Gains"
+date: 2026-03-08
+lastmod: 2026-03-08
 author: ["Eustache Elina","Raphaël Huleux"]
-description: "This paper studies the impact of the increase in permanent labor income inequality on the distribution of wealth in the U.S." 
-summary: "The past 40 years have been characterized by a decrease in the rate of return on safe assets, an increase in the equity premium, an increase in the price of financial assets, and an increase in labor income and wealth inequality. Using a heterogeneous-agent model featuring permanent labor income inequality, a two-asset structure, and nonhomothetic preferences, we investigate the impact of an increase in permanent labor income inequality on wealth inequality. As rich households save a higher share of their permanent income than poorer ones, a more skewed permanent labor income distribution increases aggregate savings, everything else equal. However, in general equilibrium, with a realistic market structure, an increase in aggregate savings increases mostly the price of capital, not its quantity. This has little impact on the marginal productivity of capital and labor but creates capital gains that push up the top 1% wealth share."     
+description: "This paper studies how the general-equilibrium effects of rising permanent labor income inequality feed back on the distribution of wealth through trickle-down and capital gains channels."
+summary: "An increase in permanent labor income inequality (PLI) increases aggregate savings because high-PLI households save more than poorer ones. For the asset market to clear, prices must adjust. This paper studies how this change in prices feeds back on the distribution of wealth. If higher households savings leads to more capital accumulation, the interest rate will decrease and wages will increase, \"trickling-down\" towards poorer households. If it only increases the price of financial assets, interest rates and wages will remain constant, and capital gains will increase the income of richer households. In a heterogeneous agent model with a non-homothetic taste for wealth and imperfect competition, we show that the level of markups dampens the trickle-down effect and increases the valuation effect. Our model calibrated to the U.S. economy suggests that the general-equilibrium effects of rising PLI inequality increased average wealth of the top 0.1% by 16% between 2020 and 1970, against 3% for the average household in the economy."
 
 ---
 
 ##### Abstract
 
-The past 40 years have been characterized by a decrease in the rate of return on safe assets, an increase in the equity premium, an increase in the price of financial assets, and an increase in labor income and wealth inequality. Using a heterogeneous-agent model featuring permanent labor income inequality, a two-asset structure, and nonhomothetic preferences, we investigate the impact of an increase in permanent labor income inequality on wealth inequality. As rich households save a higher share of their permanent income than poorer ones, a more skewed permanent labor income distribution increases aggregate savings, everything else equal. However, in general equilibrium, with a realistic market structure, an increase in aggregate savings increases mostly the price of capital, not its quantity. This has little impact on the marginal productivity of capital and labor but creates capital gains that push up the top 1% wealth share.
+An increase in permanent labor income inequality (PLI) increases aggregate savings because high-PLI households save more than poorer ones. For the asset market to clear, prices must adjust. This paper studies how this change in prices feeds back on the distribution of wealth. If higher households savings leads to more capital accumulation, the interest rate will decrease and wages will increase, "trickling-down" towards poorer households. If it only increases the price of financial assets, interest rates and wages will remain constant, and capital gains will increase the income of richer households. In a heterogeneous agent model with a non-homothetic taste for wealth and imperfect competition, we show that the level of markups dampens the trickle-down effect and increases the valuation effect. Our model calibrated to the U.S. economy suggests that the general-equilibrium effects of rising PLI inequality increased average wealth of the top 0.1% by 16% between 2020 and 1970, against 3% for the average household in the economy.
 
 ---
 
 + [Paper](fitwi.pdf)
-+ 
++ [Online appendix](online_appendix.pdf)
+
 ---
 
 ##### Citation
 
 
 ```BibTeX
-@techreport{ElinaHuleux2025b,
+@techreport{ElinaHuleux2026,
 author = {Eustache Elina and Raphaël Huleux},
-year = {2025},
-title ={From Income to Wealth Inequality in the U.S.: General Equilibrium Matters}}
+year = {2026},
+title ={From Income to Wealth Inequality: Trickle-Down vs. Capital Gains}}
 ```
 
