@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Raphaël Huleux
-          subtitle: "I am a Post-Doctoral Researcher at the University of Copenhagen working with Prof. Jeppe Druedahl, interested in macroeconomics, inequality, and fiscal and monetary policy."
+          subtitle: "I am a Post-Doctoral Researcher at the University of Copenhagen working with Prof. Jeppe Druedahl, interested in macroeconomics, inequality, and fiscal and monetary policy.<br><br>I \"vibe-coded\" Chalk, a markdown editor / scratchpad with LaTeX live-previewing and WYSIWYG, for Mac OS, available <a href=\"https://github.com/raphaelhuleux/Chalk\">here</a>."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
