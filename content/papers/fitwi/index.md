@@ -15,7 +15,7 @@ An increase in permanent labor income inequality (PLI) increases aggregate savin
 ---
 
 + [Paper](fitwi.pdf)
-+ [Online appendix](online_appendix.pdf)
++ [Online appendix](online-appendix.pdf)
 
 ---
 
