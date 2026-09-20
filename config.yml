@@ -15,12 +15,15 @@ menu:
         - name: CV
           url: cv.pdf
           weight: 1
+        - name: Research statement
+          url: research-statement.pdf
+          weight: 2
         - name: Papers
           url: papers/
-          weight: 2
+          weight: 3
         - name: Courses
           url: courses/
-          weight: 3
+          weight: 4
 
 params:
     description: "This website hosts Raphaël Huleux's research papers, course materials, curriculum vitae, and contact information."
@@ -49,13 +52,15 @@ params:
     profileMode:
           enabled: true
           title: Raphaël Huleux
-          subtitle: "I am a Post-Doctoral Researcher at the University of Copenhagen working with Prof. Jeppe Druedahl, interested in macroeconomics, inequality, and fiscal and monetary policy.<br><br>I \"vibe-coded\" Chalk, an extension for VS Code that allows live-previewing and WYSIWYG for .tex and .md files, available <a href=\"https://github.com/raphaelhuleux/Chalk\">here</a>."
+          subtitle: "I am a Post-Doctoral Researcher at the University of Copenhagen working with Prof. Jeppe Druedahl, interested in macroeconomics, inequality, and fiscal and monetary policy.<br><br><strong>I will be on the academic job market in 2026-2027.</strong> My job market paper is <a href=\"papers/monpolineq/\">Permanent Labor Income Inequality and Stabilization Policies</a>, joint with Eustache Elina."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: CV
               url: cv.pdf
+            - name: Research statement
+              url: research-statement.pdf
             - name: Papers
               url: papers/
             - name: Courses
