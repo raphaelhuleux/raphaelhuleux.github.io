@@ -59,14 +59,14 @@ params:
           buttons:
             - name: CV
               url: cv.pdf
+            - name: JMP
+              url: jmp.pdf
             - name: Research statement
               url: research-statement.pdf
             - name: Papers
               url: papers/
             - name: Courses
               url: courses/
-            - name: Blog
-              url: blog/
     socialIcons:
         - name: Email
           url: mailto:raphael.huleux@gmail.com
