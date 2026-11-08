@@ -5,13 +5,13 @@ lastmod: 2026-09-14
 weight: 2
 author: ["Eustache Elina","Raphaël Huleux"]
 description: "How rising permanent labor income inequality feeds back on the wealth distribution through trickle-down and capital gains."
-summary: "**Submitted.** Higher permanent labor income inequality (PLI) raises saving, since households with higher PLI save a larger share of it. For asset markets to clear, prices must adjust: how does this feed back on wealth inequality? If the saving finances capital, interest rates fall, wages rise, and poorer households gain. If it raises asset prices instead, the capital gains accrue to the rich. In a heterogeneous-agent model with non-homothetic wealth preferences and imperfect competition, markups weaken the first channel and let the second dominate for five decades along the transition."
+summary: "**Under review, *Journal of Monetary Economics*.** Higher permanent labor income inequality (PLI) raises saving, since households with higher PLI save a larger share of it. For asset markets to clear, prices must adjust: how does this feed back on wealth inequality? If the saving finances capital, interest rates fall, wages rise, and poorer households gain. If it raises asset prices instead, the capital gains accrue to the rich. In a heterogeneous-agent model with non-homothetic wealth preferences and imperfect competition, markups weaken the first channel and let the second dominate for five decades along the transition."
 
 ---
 
 ##### Status
 
-Submitted.
+Under review, *Journal of Monetary Economics*.
 
 ---
 
